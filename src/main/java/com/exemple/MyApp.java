@@ -20,6 +20,9 @@ public class MyApp {
         for (Deplacable deplacable: deplacables) {
             deplacable.seDeplace();
         }
+
+        System.out.println("Salut");
+        System.out.println("Re salut");
     }
 
 }
