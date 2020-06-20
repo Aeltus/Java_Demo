@@ -22,6 +22,7 @@ public class MyApp {
         }
 
         System.out.println("Salut");
+        System.out.println("Re salut");
     }
 
 }
